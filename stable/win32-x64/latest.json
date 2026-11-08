@@ -1,0 +1,14 @@
+{
+  "version": "0.1.6",
+  "channel": "stable",
+  "platform": "win32-x64",
+  "notes": "Figmu 0.1.6",
+  "files": [
+    {
+      "url": "https://github.com/MustafaManhal/figmu-releases/releases/download/v0.1.6/Figmu-windows-x64-setup.exe",
+      "size": 124899808,
+      "sha512": "d53f9fb27d8784d921cc07329c7870d962041ed41c016a6e28648eb2588aff576526fd30c460302b374ca8368cbeae7e083534e375097d152970f328b3cfff0f"
+    }
+  ],
+  "signature": "tOr6BlQkd8/y0uWGrQo9O/U/P0+OZ2qWDDhvacGQd8xqFDZYu/O4Rcs86aJJHkvOgacWkkLIhuZSNLXvS4pdAw=="
+}

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#1e1e1e">
+  <title>Download Figmu</title>
+  <style>
+    :root { color-scheme: dark; font: 17px/1.6 system-ui, sans-serif; color: #f2f4f2; background: #1e1e1e; }
+    body { margin: 0; padding: 64px 24px; }
+    main { max-width: 680px; margin: auto; }
+    .brand { font-weight: 750; font-size: 22px; }
+    h1 { font-size: clamp(36px, 7vw, 54px); line-height: 1.1; letter-spacing: -.04em; margin: 64px 0 20px; }
+    .intro { max-width: 530px; color: #bdc6c0; }
+    .downloads { display: flex; gap: 16px; flex-wrap: wrap; margin: 32px 0; }
+    a { display: block; flex: 1; min-width: 200px; color: white; background: #284438; padding: 20px 24px; border-radius: 12px; text-decoration: none; font-weight: 650; }
+    a:hover { background: #355a48; }
+    a:focus-visible { outline: 3px solid #8eb7ff; outline-offset: 4px; }
+    a small { display: block; font-weight: 400; color: #d4e3da; }
+    .notice { border-top: 1px solid #3b443e; padding-top: 24px; color: #adb8b0; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="brand">Figmu</div>
+    <h1>Download Figmu</h1>
+    <p class="intro">Download the latest Figmu release. No account is needed.</p>
+    <div class="downloads">
+      <a href="https://github.com/MustafaManhal/figmu-releases/releases/latest/download/Figmu-mac-arm64.dmg">Download for macOS<small>Apple silicon · Latest release · DMG</small></a>
+      <a href="https://github.com/MustafaManhal/figmu-releases/releases/latest/download/Figmu-windows-x64-setup.exe">Download for Windows<small>64-bit · Latest release · Installer</small></a>
+    </div>
+    <p class="notice">On macOS, open the DMG and move Figmu to Applications. If prompted to replace the existing app, choose Replace. Preview apps are not signed with an operating-system publisher certificate, so your system may ask you to approve opening them. Installed apps update themselves: Figmu checks for a new version when it starts and once a day, and verifies every update before installing it.</p>
+  </main>
+</body>
+</html>

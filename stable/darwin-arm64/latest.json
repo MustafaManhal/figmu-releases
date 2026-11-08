@@ -1,0 +1,14 @@
+{
+  "version": "0.1.6",
+  "channel": "stable",
+  "platform": "darwin-arm64",
+  "notes": "Figmu 0.1.6",
+  "files": [
+    {
+      "url": "https://github.com/MustafaManhal/figmu-releases/releases/download/v0.1.6/Figmu-mac-arm64.zip",
+      "size": 147081681,
+      "sha512": "4ad88e6d7d32d6237a0f7db40cdc4cdbd4e6aced265684ae4aec558a4a94284d407a66479aa7f2b21ab9964172e4ebd84c7674cf48b448d1c3c824f0eda12ca2"
+    }
+  ],
+  "signature": "7JPjFQbezZeqi1x5e1aUcT+oTyVva2taVRQEuwye9ueKwEs8fVK6jDsuzBsD40Jv432tuwzUDd3NCAasqo0RAQ=="
+}
